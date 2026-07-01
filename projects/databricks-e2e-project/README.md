@@ -2,7 +2,8 @@
 
 End-to-end data engineering and analytics project for a restaurant chain, built on Databricks with synthetic data generation, streaming ingestion, medallion transformations, and BI-ready gold models.
 
-![Architecture](diagrams/Restaurant Chain Architecture.png)
+<img width="1426" height="671" alt="Restaurant Chain Architecture" src="https://github.com/user-attachments/assets/577fcf3d-3bdb-4a61-a8a8-f75cb5257760" />
+
 
 ## Project Goals
 
