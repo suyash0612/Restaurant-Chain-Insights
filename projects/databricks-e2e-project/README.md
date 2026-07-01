@@ -2,7 +2,7 @@
 
 End-to-end data engineering and analytics project for a restaurant chain, built on Databricks with synthetic data generation, streaming ingestion, medallion transformations, and BI-ready gold models.
 
-![Architecture](diagrams/project_architecture.png)
+![Architecture](diagrams/Restaurant Chain Architecture.png)
 
 ## Project Goals
 
@@ -244,7 +244,7 @@ Use gold tables for BI artifacts and metrics documented in:
 
 - Ad-hoc commands: [commands_used.md](commands_used.md)
 - Architecture images:
-	- [diagrams/project_architecture.png](diagrams/project_architecture.png)
+	- [diagrams/Restaurant Chain Architecture.png](diagrams/Restaurant Chain Architecture.png)
 	- [diagrams/synthetic_data.png](diagrams/synthetic_data.png)
 
 ## Known Caveats

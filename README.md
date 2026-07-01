@@ -2,7 +2,7 @@
 
 End-to-end Databricks data engineering project for restaurant analytics, combining synthetic data generation, streaming ingestion, medallion transformations, and dashboard-ready gold models.
 
-![Project Architecture](projects/databricks-e2e-project/diagrams/project_architecture.png)
+![Project Architecture](projects/databricks-e2e-project/diagrams/Restaurant Chain Architecture.png)
 
 ## What This Repository Contains
 
