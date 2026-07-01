@@ -2,6 +2,24 @@
 
 End-to-end Databricks data engineering project for restaurant analytics, combining synthetic data generation, streaming ingestion, medallion transformations, and dashboard-ready gold models.
 
+# Dashboard
+
+## Dashboard Demos
+
+### Master Dashboard
+
+<video src="dashboard/Master Dashboard.mov" controls width="100%"></video>
+
+[Open video directly](dashboard/Master%20Dashboard.mov)
+
+### Customer Insights
+
+<video src="dashboard/Customer Insights.mov" controls width="100%"></video>
+
+[Open video directly](dashboard/Customer%20Insights.mov)
+
+
+
 ![Project Architecture](projects/databricks-e2e-project/diagrams/project_architecture.png)
 
 ## What This Repository Contains
