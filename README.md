@@ -2,7 +2,14 @@
 
 End-to-end Databricks data engineering project for restaurant analytics, combining synthetic data generation, streaming ingestion, medallion transformations, and dashboard-ready gold models.
 
-# Dashboard
+![Project Architecture](projects/databricks-e2e-project/diagrams/project_architecture.png)
+
+## What This Repository Contains
+
+- Synthetic data generators for restaurants, menu, customers, orders, and reviews.
+- Event Hub order streaming simulator.
+- Bronze, silver, and gold pipeline transformations.
+- Gold models used for performance and review intelligence dashboards.
 
 ## Dashboard Demos
 
@@ -15,17 +22,6 @@ https://github.com/user-attachments/assets/a8cc4b14-2d53-4362-b2a6-5974a5eb3ca6
 
 https://github.com/user-attachments/assets/1f3f57c5-e7f6-4c9b-b3fa-30fba6213beb
 
-
-
-
-![Project Architecture](projects/databricks-e2e-project/diagrams/project_architecture.png)
-
-## What This Repository Contains
-
-- Synthetic data generators for restaurants, menu, customers, orders, and reviews.
-- Event Hub order streaming simulator.
-- Bronze, silver, and gold pipeline transformations.
-- Gold models used for performance and review intelligence dashboards.
 
 ## Quick Start
 
