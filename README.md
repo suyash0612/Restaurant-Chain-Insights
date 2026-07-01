@@ -15,10 +15,29 @@ End-to-end Databricks data engineering project for restaurant analytics, combini
 
 ### Master Dashboard
 
+Key features:
+
+- Date-range filtering (`start_date`, `end_date`) for period-over-period analysis.
+- KPI cards for Total Orders, Total Revenue, Active Customers, and AOV.
+- Daily sales trend to monitor growth and seasonality.
+- Best-selling items view for menu performance optimization.
+- Order volume by day of week and peak-hour heatmap (day x hour) for staffing decisions.
+- Revenue split by order type (`dine_in`, `takeaway`, `delivery`) and food category mix.
+
+
 https://github.com/user-attachments/assets/a8cc4b14-2d53-4362-b2a6-5974a5eb3ca6
 
 
 ### Customer Insights
+
+Key features:
+
+- Restaurant-level filtering to compare customer sentiment by location.
+- Review volume and sentiment trend over time (positive, neutral, negative).
+- Average rating and rating distribution for quality benchmarking.
+- Sentiment counts with quick split across positive/neutral/negative reviews.
+- Issue categorization for operational root causes: delivery, food quality, pricing, portion size.
+- Recent review feed for real-time voice-of-customer monitoring.
 
 https://github.com/user-attachments/assets/1f3f57c5-e7f6-4c9b-b3fa-30fba6213beb
 
