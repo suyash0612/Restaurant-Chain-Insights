@@ -8,13 +8,13 @@ End-to-end Databricks data engineering project for restaurant analytics, combini
 
 ### Master Dashboard
 
-<video src="dashboard/Master Dashboard.mov" controls width="100%"></video>
+<video src="dashboard/Master Dashboard.mp4" controls width="100%"></video>
 
 [Open video directly](dashboard/Master%20Dashboard.mov)
 
 ### Customer Insights
 
-<video src="dashboard/Customer Insights.mov" controls width="100%"></video>
+<video src="dashboard/Customer Insights.mp4" controls width="100%"></video>
 
 [Open video directly](dashboard/Customer%20Insights.mov)
 
